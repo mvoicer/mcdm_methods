@@ -1,1 +1,1 @@
-# mcdm_methods
+Implementation of some MCDM methods
